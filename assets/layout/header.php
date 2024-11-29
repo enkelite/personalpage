@@ -1,3 +1,6 @@
+<?php echo $headerTitle; ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
